@@ -67,14 +67,14 @@ To get a local copy up and running follow these simple Installation steps.
 
 ## Project Structure
 
-- `/new/` the root folder.
-- `/new/src/` project source files.
-- `/new/src/assets` project pictures
-- `/new/src/components` eshop components
-- `/new/src/context` - cart, filter, products, user contexts files
-- `/new/src/pages` - eshop pages.
-- `/new/src/reducers` - cart, filter, products reducers
-- `/new/src/utils` - helper functions.
+- `/` the root folder.
+- `/src/` project source files.
+- `/src/assets` project pictures
+- `/src/components` eshop components
+- `/src/context` - cart, filter, products, user contexts files
+- `/src/pages` - eshop pages.
+- `/src/reducers` - cart, filter, products reducers
+- `/src/utils` - helper functions.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
